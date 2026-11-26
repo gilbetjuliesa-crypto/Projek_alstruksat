@@ -1,0 +1,10 @@
+{
+  "tanjiro": {
+    "nama": "tanjiro",
+    "sandi": "scrypt$8dc2e896cf682415476bf3fd105dc3d3$3a97ae31061e6846ef55d3640be43d35df785ac6ec8e511f95300b21832fc1d6"
+  },
+  "zenitsu": {
+    "nama": "zenitsu",
+    "sandi": "scrypt$801b1e8d87134d6df685e8701711eba1$1302f488fc755ae4f7c612c24f8e9027758a7224617e30ad94bfb646ca497d58"
+  }
+}
